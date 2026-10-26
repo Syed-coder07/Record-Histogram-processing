@@ -166,6 +166,24 @@ Display the Original Image and Histogram Equalized Image:
 
 <img width="1375" height="417" alt="image" src="https://github.com/user-attachments/assets/dd3a1eed-7ae0-4fc8-9d5b-b2fd193c3f8b" />
 
+## Grayscale Histogram Equalization:
+
+* Original grayscale image is displayed.
+* Histogram of original grayscale image is plotted.
+* Enhanced image after histogram equalization is displayed.
+* Histogram of enhanced grayscale image shows improved contrast.
+
+  
+## Color Image Histogram Equalization;
+
+* Original color image is displayed.
+* Histogram of B, G, R channels is plotted..
+* Enhanced image after HSV-based equalization is displayed.
+* Histogram of enhanced image shows better intensity distribution.
+
+## Result:
+
+Thus, histogram equalization is successfully performed on both grayscale and color images using OpenCV. The contrast and brightness of the images are significantly improved, enhancing visual quality and feature visibility.
 
 
 
